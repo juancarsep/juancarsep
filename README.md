@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Java SE, JDBC, Servlets, JSPs, Java Web, MySQL.
 - 💞️ I’m looking to collaborate on projects that challenge both me and my knowledge
 - 📫 How to reach me via email at carballosepejuan@gmail.com or at my LinkedIn profile https://www.linkedin.com/in/juan-carballo-sepe-21727b248/
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+
