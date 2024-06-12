@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a Systems Technical degree student at the ORT
 - 🌱 Currently focusing on improving my skills in Java ☕ and related technologies.
 - 🛠️ My technical skills include:
   - **Programming Languages:** Java
-  - **Frameworks:** Spring Boot
+  - **Frameworks:** Spring
   - **ORM:** Hibernate
   - **Tools:** Postman
   - **Databases:** SQL, MySQL Server
